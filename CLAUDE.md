@@ -6,7 +6,7 @@ Flujo "PC arranca, móvil continúa": el desarrollo, la revisión y las pruebas 
 
 El repositorio `npiobject/proyecto_2`, rama `main`, es la **única** fuente de verdad, tanto para el código como para la documentación de `docs/planificacion/`. Todo lo que importe vive aquí y se edita aquí.
 
-Google Drive (carpeta normal `Mi unidad/proyecto_2`, id `<PENDIENTE: crear la carpeta y anotar aquí su id>`) es **solo un destino de copias**, nunca un origen:
+Google Drive (carpeta normal `Mi unidad/proyecto_2`, id `1DQunKWKZ9JdWTCuOnQ5bOAfjIaGl9RLE`) es **solo un destino de copias**, nunca un origen:
 
 - Se escribe en Drive únicamente al cerrar sesión, subiendo copia de lo que ya está en el repo.
 - Nunca se toma nada de Drive como origen ni se importa contenido desde allí. Si el repo y Drive difieren, gana el repo.
